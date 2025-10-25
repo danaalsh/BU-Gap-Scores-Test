@@ -1,0 +1,301 @@
+Year,Concept_ID,Concept_Name,Work_Count
+2020,https://openalex.org/C41008148,Computer science,2002
+2020,https://openalex.org/C154945302,Artificial intelligence,1509
+2020,https://openalex.org/C119857082,Machine learning,634
+2020,https://openalex.org/C33923547,Mathematics,523
+2020,https://openalex.org/C127413603,Engineering,482
+2020,https://openalex.org/C138885662,Philosophy,428
+2020,https://openalex.org/C15744967,Psychology,423
+2020,https://openalex.org/C86803240,Biology,422
+2020,https://openalex.org/C121332964,Physics,380
+2020,https://openalex.org/C108583219,Deep learning,372
+2020,https://openalex.org/C2522767166,Data science,371
+2020,https://openalex.org/C71924100,Medicine,370
+2020,https://openalex.org/C111919701,Operating system,341
+2020,https://openalex.org/C17744445,Political science,336
+2020,https://openalex.org/C199360897,Programming language,336
+2020,https://openalex.org/C199539241,Law,291
+2020,https://openalex.org/C144024400,Sociology,267
+2020,https://openalex.org/C162324750,Economics,250
+2020,https://openalex.org/C153180895,Pattern recognition (psychology),236
+2020,https://openalex.org/C39890363,Generative grammar,225
+2020,https://openalex.org/C50644808,Artificial neural network,222
+2020,https://openalex.org/C38652104,Computer security,220
+2020,https://openalex.org/C111472728,Epistemology,210
+2020,https://openalex.org/C41895202,Linguistics,209
+2020,https://openalex.org/C136764020,World Wide Web,208
+2020,https://openalex.org/C62520636,Quantum mechanics,204
+2020,https://openalex.org/C107457646,Human–computer interaction,198
+2020,https://openalex.org/C142362112,Art,198
+2020,https://openalex.org/C124101348,Data mining,191
+2020,https://openalex.org/C142724271,Pathology,175
+2020,https://openalex.org/C205649164,Geography,175
+2020,https://openalex.org/C144133560,Business,168
+2020,https://openalex.org/C98045186,Process (computing),158
+2020,https://openalex.org/C31972630,Computer vision,156
+2020,https://openalex.org/C204321447,Natural language processing,155
+2020,https://openalex.org/C202444582,Pure mathematics,152
+2020,https://openalex.org/C2779134260,Disease,148
+2020,https://openalex.org/C105795698,Statistics,146
+2020,https://openalex.org/C2779343474,Context (archaeology),142
+2020,https://openalex.org/C11413529,Algorithm,140
+2020,https://openalex.org/C115961682,Image (mathematics),140
+2020,https://openalex.org/C185592680,Chemistry,138
+2020,https://openalex.org/C3008058167,Coronavirus disease 2019 (COVID-19),137
+2020,https://openalex.org/C524204448,Infectious disease (medical specialty),137
+2020,https://openalex.org/C9652623,Field (mathematics),137
+2020,https://openalex.org/C76155785,Telecommunications,134
+2020,https://openalex.org/C151730666,Paleontology,132
+2020,https://openalex.org/C166957645,Archaeology,132
+2020,https://openalex.org/C134306372,Mathematical analysis,129
+2020,https://openalex.org/C2780451532,Task (project management),126
+2021,https://openalex.org/C41008148,Computer science,3227
+2021,https://openalex.org/C154945302,Artificial intelligence,2427
+2021,https://openalex.org/C119857082,Machine learning,1039
+2021,https://openalex.org/C33923547,Mathematics,878
+2021,https://openalex.org/C127413603,Engineering,787
+2021,https://openalex.org/C138885662,Philosophy,744
+2021,https://openalex.org/C86803240,Biology,694
+2021,https://openalex.org/C15744967,Psychology,663
+2021,https://openalex.org/C2522767166,Data science,649
+2021,https://openalex.org/C71924100,Medicine,624
+2021,https://openalex.org/C108583219,Deep learning,587
+2021,https://openalex.org/C121332964,Physics,584
+2021,https://openalex.org/C199360897,Programming language,559
+2021,https://openalex.org/C111919701,Operating system,529
+2021,https://openalex.org/C17744445,Political science,521
+2021,https://openalex.org/C199539241,Law,468
+2021,https://openalex.org/C144024400,Sociology,455
+2021,https://openalex.org/C38652104,Computer security,419
+2021,https://openalex.org/C153180895,Pattern recognition (psychology),392
+2021,https://openalex.org/C136764020,World Wide Web,377
+2021,https://openalex.org/C41895202,Linguistics,376
+2021,https://openalex.org/C39890363,Generative grammar,353
+2021,https://openalex.org/C162324750,Economics,351
+2021,https://openalex.org/C111472728,Epistemology,346
+2021,https://openalex.org/C50644808,Artificial neural network,326
+2021,https://openalex.org/C142724271,Pathology,323
+2021,https://openalex.org/C124101348,Data mining,318
+2021,https://openalex.org/C62520636,Quantum mechanics,302
+2021,https://openalex.org/C142362112,Art,296
+2021,https://openalex.org/C107457646,Human–computer interaction,289
+2021,https://openalex.org/C202444582,Pure mathematics,274
+2021,https://openalex.org/C204321447,Natural language processing,264
+2021,https://openalex.org/C98045186,Process (computing),256
+2021,https://openalex.org/C9652623,Field (mathematics),254
+2021,https://openalex.org/C2779134260,Disease,250
+2021,https://openalex.org/C205649164,Geography,246
+2021,https://openalex.org/C144133560,Business,241
+2021,https://openalex.org/C11413529,Algorithm,239
+2021,https://openalex.org/C151730666,Paleontology,236
+2021,https://openalex.org/C31972630,Computer vision,236
+2021,https://openalex.org/C115961682,Image (mathematics),230
+2021,https://openalex.org/C185592680,Chemistry,229
+2021,https://openalex.org/C2779343474,Context (archaeology),223
+2021,https://openalex.org/C3008058167,Coronavirus disease 2019 (COVID-19),218
+2021,https://openalex.org/C524204448,Infectious disease (medical specialty),218
+2021,https://openalex.org/C134306372,Mathematical analysis,216
+2021,https://openalex.org/C77805123,Social psychology,209
+2021,https://openalex.org/C76155785,Telecommunications,206
+2021,https://openalex.org/C81363708,Convolutional neural network,204
+2021,https://openalex.org/C166957645,Archaeology,202
+2022,https://openalex.org/C41008148,Computer science,4270
+2022,https://openalex.org/C154945302,Artificial intelligence,3209
+2022,https://openalex.org/C119857082,Machine learning,1372
+2022,https://openalex.org/C127413603,Engineering,1136
+2022,https://openalex.org/C33923547,Mathematics,1097
+2022,https://openalex.org/C138885662,Philosophy,978
+2022,https://openalex.org/C15744967,Psychology,922
+2022,https://openalex.org/C86803240,Biology,841
+2022,https://openalex.org/C2522767166,Data science,796
+2022,https://openalex.org/C108583219,Deep learning,776
+2022,https://openalex.org/C121332964,Physics,758
+2022,https://openalex.org/C71924100,Medicine,751
+2022,https://openalex.org/C111919701,Operating system,730
+2022,https://openalex.org/C17744445,Political science,720
+2022,https://openalex.org/C199360897,Programming language,705
+2022,https://openalex.org/C199539241,Law,648
+2022,https://openalex.org/C144024400,Sociology,573
+2022,https://openalex.org/C153180895,Pattern recognition (psychology),542
+2022,https://openalex.org/C38652104,Computer security,540
+2022,https://openalex.org/C41895202,Linguistics,496
+2022,https://openalex.org/C50644808,Artificial neural network,488
+2022,https://openalex.org/C162324750,Economics,487
+2022,https://openalex.org/C124101348,Data mining,474
+2022,https://openalex.org/C111472728,Epistemology,471
+2022,https://openalex.org/C136764020,World Wide Web,447
+2022,https://openalex.org/C39890363,Generative grammar,447
+2022,https://openalex.org/C107457646,Human–computer interaction,434
+2022,https://openalex.org/C62520636,Quantum mechanics,391
+2022,https://openalex.org/C205649164,Geography,378
+2022,https://openalex.org/C144133560,Business,374
+2022,https://openalex.org/C202444582,Pure mathematics,369
+2022,https://openalex.org/C142362112,Art,359
+2022,https://openalex.org/C98045186,Process (computing),355
+2022,https://openalex.org/C9652623,Field (mathematics),340
+2022,https://openalex.org/C185592680,Chemistry,332
+2022,https://openalex.org/C31972630,Computer vision,329
+2022,https://openalex.org/C204321447,Natural language processing,321
+2022,https://openalex.org/C115961682,Image (mathematics),315
+2022,https://openalex.org/C151730666,Paleontology,310
+2022,https://openalex.org/C142724271,Pathology,309
+2022,https://openalex.org/C134306372,Mathematical analysis,305
+2022,https://openalex.org/C2779343474,Context (archaeology),297
+2022,https://openalex.org/C11413529,Algorithm,296
+2022,https://openalex.org/C76155785,Telecommunications,296
+2022,https://openalex.org/C77805123,Social psychology,296
+2022,https://openalex.org/C81363708,Convolutional neural network,293
+2022,https://openalex.org/C166957645,Archaeology,265
+2022,https://openalex.org/C36289849,Social science,257
+2022,https://openalex.org/C55493867,Biochemistry,252
+2022,https://openalex.org/C78519656,Mechanical engineering,242
+2023,https://openalex.org/C41008148,Computer science,14601
+2023,https://openalex.org/C154945302,Artificial intelligence,10420
+2023,https://openalex.org/C15744967,Psychology,4371
+2023,https://openalex.org/C127413603,Engineering,4158
+2023,https://openalex.org/C17744445,Political science,3552
+2023,https://openalex.org/C119857082,Machine learning,3398
+2023,https://openalex.org/C138885662,Philosophy,3383
+2023,https://openalex.org/C39890363,Generative grammar,3293
+2023,https://openalex.org/C33923547,Mathematics,3267
+2023,https://openalex.org/C199539241,Law,3078
+2023,https://openalex.org/C2522767166,Data science,2889
+2023,https://openalex.org/C86803240,Biology,2827
+2023,https://openalex.org/C71924100,Medicine,2706
+2023,https://openalex.org/C199360897,Programming language,2470
+2023,https://openalex.org/C144024400,Sociology,2357
+2023,https://openalex.org/C121332964,Physics,2183
+2023,https://openalex.org/C111919701,Operating system,2143
+2023,https://openalex.org/C162324750,Economics,1835
+2023,https://openalex.org/C144133560,Business,1816
+2023,https://openalex.org/C136764020,World Wide Web,1754
+2023,https://openalex.org/C41895202,Linguistics,1626
+2023,https://openalex.org/C38652104,Computer security,1606
+2023,https://openalex.org/C111472728,Epistemology,1593
+2023,https://openalex.org/C204321447,Natural language processing,1439
+2023,https://openalex.org/C108583219,Deep learning,1380
+2023,https://openalex.org/C56739046,Knowledge management,1320
+2023,https://openalex.org/C77805123,Social psychology,1304
+2023,https://openalex.org/C107457646,Human–computer interaction,1228
+2023,https://openalex.org/C142362112,Art,1205
+2023,https://openalex.org/C62520636,Quantum mechanics,1203
+2023,https://openalex.org/C98045186,Process (computing),1186
+2023,https://openalex.org/C151730666,Paleontology,1154
+2023,https://openalex.org/C2779343474,Context (archaeology),1135
+2023,https://openalex.org/C202444582,Pure mathematics,1099
+2023,https://openalex.org/C205649164,Geography,1064
+2023,https://openalex.org/C55587333,Engineering ethics,1043
+2023,https://openalex.org/C9652623,Field (mathematics),1027
+2023,https://openalex.org/C153180895,Pattern recognition (psychology),1024
+2023,https://openalex.org/C185592680,Chemistry,1012
+2023,https://openalex.org/C124101348,Data mining,1001
+2023,https://openalex.org/C36289849,Social science,931
+2023,https://openalex.org/C134306372,Mathematical analysis,896
+2023,https://openalex.org/C50644808,Artificial neural network,889
+2023,https://openalex.org/C19417346,Pedagogy,876
+2023,https://openalex.org/C166957645,Archaeology,843
+2023,https://openalex.org/C145420912,Mathematics education,829
+2023,https://openalex.org/C78519656,Mechanical engineering,829
+2023,https://openalex.org/C169760540,Neuroscience,813
+2023,https://openalex.org/C167966045,Generative model,798
+2023,https://openalex.org/C115961682,Image (mathematics),788
+2024,https://openalex.org/C41008148,Computer science,18017
+2024,https://openalex.org/C154945302,Artificial intelligence,12412
+2024,https://openalex.org/C39890363,Generative grammar,7246
+2024,https://openalex.org/C15744967,Psychology,6503
+2024,https://openalex.org/C127413603,Engineering,4497
+2024,https://openalex.org/C17744445,Political science,3534
+2024,https://openalex.org/C138885662,Philosophy,3047
+2024,https://openalex.org/C71924100,Medicine,2991
+2024,https://openalex.org/C199539241,Law,2782
+2024,https://openalex.org/C86803240,Biology,2773
+2024,https://openalex.org/C144133560,Business,2743
+2024,https://openalex.org/C144024400,Sociology,2609
+2024,https://openalex.org/C2522767166,Data science,2599
+2024,https://openalex.org/C33923547,Mathematics,2582
+2024,https://openalex.org/C119857082,Machine learning,2100
+2024,https://openalex.org/C121332964,Physics,1970
+2024,https://openalex.org/C145420912,Mathematics education,1855
+2024,https://openalex.org/C199360897,Programming language,1821
+2024,https://openalex.org/C162324750,Economics,1818
+2024,https://openalex.org/C136764020,World Wide Web,1611
+2024,https://openalex.org/C41895202,Linguistics,1591
+2024,https://openalex.org/C107457646,Human–computer interaction,1502
+2024,https://openalex.org/C38652104,Computer security,1469
+2024,https://openalex.org/C56739046,Knowledge management,1436
+2024,https://openalex.org/C204321447,Natural language processing,1430
+2024,https://openalex.org/C19417346,Pedagogy,1388
+2024,https://openalex.org/C205649164,Geography,1363
+2024,https://openalex.org/C111919701,Operating system,1359
+2024,https://openalex.org/C111472728,Epistemology,1308
+2024,https://openalex.org/C77805123,Social psychology,1246
+2024,https://openalex.org/C185592680,Chemistry,1127
+2024,https://openalex.org/C142362112,Art,1126
+2024,https://openalex.org/C188147891,Cognitive science,1095
+2024,https://openalex.org/C167966045,Generative model,1092
+2024,https://openalex.org/C55587333,Engineering ethics,1064
+2024,https://openalex.org/C166957645,Archaeology,949
+2024,https://openalex.org/C169760540,Neuroscience,926
+2024,https://openalex.org/C62520636,Quantum mechanics,875
+2024,https://openalex.org/C18903297,Ecology,798
+2024,https://openalex.org/C55493867,Biochemistry,797
+2024,https://openalex.org/C151730666,Paleontology,761
+2024,https://openalex.org/C162853370,Marketing,743
+2024,https://openalex.org/C108583219,Deep learning,738
+2024,https://openalex.org/C2779343474,Context (archaeology),717
+2024,https://openalex.org/C36289849,Social science,717
+2024,https://openalex.org/C78519656,Mechanical engineering,711
+2024,https://openalex.org/C98045186,Process (computing),708
+2024,https://openalex.org/C49774154,Multimedia,699
+2024,https://openalex.org/C115961682,Image (mathematics),691
+2024,https://openalex.org/C115903868,Software engineering,671
+2025,https://openalex.org/C41008148,Computer science,13553
+2025,https://openalex.org/C154945302,Artificial intelligence,10296
+2025,https://openalex.org/C39890363,Generative grammar,8166
+2025,https://openalex.org/C15744967,Psychology,5981
+2025,https://openalex.org/C127413603,Engineering,3038
+2025,https://openalex.org/C17744445,Political science,2278
+2025,https://openalex.org/C144133560,Business,2211
+2025,https://openalex.org/C71924100,Medicine,2176
+2025,https://openalex.org/C138885662,Philosophy,2073
+2025,https://openalex.org/C144024400,Sociology,1988
+2025,https://openalex.org/C145420912,Mathematics education,1940
+2025,https://openalex.org/C199539241,Law,1751
+2025,https://openalex.org/C86803240,Biology,1582
+2025,https://openalex.org/C2522767166,Data science,1511
+2025,https://openalex.org/C33923547,Mathematics,1461
+2025,https://openalex.org/C19417346,Pedagogy,1244
+2025,https://openalex.org/C41895202,Linguistics,1194
+2025,https://openalex.org/C162324750,Economics,1188
+2025,https://openalex.org/C56739046,Knowledge management,1155
+2025,https://openalex.org/C119857082,Machine learning,1089
+2025,https://openalex.org/C107457646,Human–computer interaction,1088
+2025,https://openalex.org/C121332964,Physics,1085
+2025,https://openalex.org/C204321447,Natural language processing,1044
+2025,https://openalex.org/C188147891,Cognitive science,1018
+2025,https://openalex.org/C167966045,Generative model,1015
+2025,https://openalex.org/C136764020,World Wide Web,992
+2025,https://openalex.org/C199360897,Programming language,990
+2025,https://openalex.org/C77805123,Social psychology,952
+2025,https://openalex.org/C205649164,Geography,906
+2025,https://openalex.org/C111472728,Epistemology,859
+2025,https://openalex.org/C38652104,Computer security,849
+2025,https://openalex.org/C169760540,Neuroscience,769
+2025,https://openalex.org/C142362112,Art,756
+2025,https://openalex.org/C55587333,Engineering ethics,753
+2025,https://openalex.org/C111919701,Operating system,659
+2025,https://openalex.org/C185592680,Chemistry,658
+2025,https://openalex.org/C162853370,Marketing,650
+2025,https://openalex.org/C166957645,Archaeology,564
+2025,https://openalex.org/C49774154,Multimedia,528
+2025,https://openalex.org/C36289849,Social science,489
+2025,https://openalex.org/C509550671,Medical education,485
+2025,https://openalex.org/C126322002,Internal medicine,468
+2025,https://openalex.org/C18903297,Ecology,456
+2025,https://openalex.org/C115903868,Software engineering,452
+2025,https://openalex.org/C10138342,Finance,451
+2025,https://openalex.org/C78519656,Mechanical engineering,447
+2025,https://openalex.org/C62520636,Quantum mechanics,420
+2025,https://openalex.org/C134306372,Mathematical analysis,417
+2025,https://openalex.org/C55493867,Biochemistry,410
+2025,https://openalex.org/C153349607,Visual arts,388
