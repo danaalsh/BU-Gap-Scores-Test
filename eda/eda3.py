@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # --- Configuration ---
-years = [2021, 2022, 2023, 2024, 2025]
+years = [2021, 2022, 2023, 2024, 2025, 'preprint']
 DATA_DIR = '../data'
 # The output file name and delimiter are retained for clean viewing
 OUTPUT_FILE = os.path.join(DATA_DIR, 'topic_yearly_counts.psv') 
